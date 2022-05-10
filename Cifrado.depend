@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1630273106 source:c:\users\gustavo\desktop\cuartocucei\datos 2\prog04-padillavaldezgustavo\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"cifrador.h"
+	"User.h"
+	<vector>
+
+1622174024 source:c:\users\gustavo\desktop\cuartocucei\datos 2\prog04-padillavaldezgustavo\cifrador.cpp
+	"cifrador.h"
+
+1622173822 c:\users\gustavo\desktop\cuartocucei\datos 2\prog04-padillavaldezgustavo\cifrador.h
+	<iostream>
+	<cmath>
+	<sstream>
+
+1630270402 source:c:\users\gustavo\desktop\cuartocucei\datos 2\prog04-padillavaldezgustavo\user.cpp
+	"User.h"
+
+1630270441 c:\users\gustavo\desktop\cuartocucei\datos 2\prog04-padillavaldezgustavo\user.h
+	<iostream>
+	"cifrador.h"
+
